@@ -1,2 +1,3 @@
 # dev_practica
-Repositorio de Practica github 
+### REpósitorio de practica. 
+Practicando 'github', Lo que no se practica no se aprende. 
